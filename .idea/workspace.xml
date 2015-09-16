@@ -2,43 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09d4da39-db4e-4838-b15b-0d0abb07ac45" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chineserp-jquery-master/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chineserp-jquery-master/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chineserp-jquery-master/src/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chineserp-jquery-master/test/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chineserp-jquery-master/example/110000.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chineserp-jquery-master/example/310000.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chineserp-jquery-master/example/320000.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chineserp-jquery-master/example/340000.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chineserp-jquery-master/example/500000.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chineserp-jquery-master/example/650000.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chineserp-jquery-master/example/710000.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chineserp-jquery-master/example/810000.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chineserp-jquery-master/example/820000.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chineserp-jquery-master/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chineserp-jquery-master/Gruntfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chineserp-jquery-master/LICENSE-MIT" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chineserp-jquery-master/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chineserp-jquery-master/test/chineserp.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chineserp-jquery-master/chineserp.jquery.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chineserp-jquery-master/example/chineserp.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chineserp-jquery-master/example/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chineserp-jquery-master/example/index.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdarea.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chineserp-jquery-master/libs/jquery-loader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chineserp-jquery-master/dist/jquery.chineserp.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chineserp-jquery-master/dist/jquery.chineserp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chineserp-jquery-master/src/jquery.chineserp.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chineserp-jquery-master/dist/jquery.chineserp.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chineserp-jquery-master/test/jquery.chineserp_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chineserp-jquery-master/libs/jquery/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chineserp-jquery-master/src/jquery.regionpicker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chineserp-jquery-master/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chineserp-jquery-master/libs/qunit/qunit.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chineserp-jquery-master/libs/qunit/qunit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chineserp-jquery-master/example/server.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README" afterPath="$PROJECT_DIR$/README" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="E:\gitRoot\xcfed\README" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="xcfed.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -58,18 +23,7 @@
     <favorites_list name="xcfed" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="README" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.034867503">
-              <caret line="1" column="121" selection-start-line="1" selection-start-column="121" selection-end-line="1" selection-end-column="121" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -227,18 +181,18 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -249,6 +203,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css3ms/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -555,7 +517,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.034867503">
           <caret line="1" column="121" selection-start-line="1" selection-start-column="121" selection-end-line="1" selection-end-column="121" />
